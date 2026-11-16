@@ -1,0 +1,9 @@
+{
+  "id": "vegetable-egg-toast",
+  "name": "蔬菜蛋吐司",
+  "category": "breakfast",
+  "priceMin": 45,
+  "priceMax": 75,
+  "emoji": "🥪",
+  "description": "蔬菜配蛋，簡單開始新的一天。"
+}
